@@ -1,6 +1,5 @@
 # < Joe.dev /> - Portfólio Pessoal
 
-![Banner do Projeto](./assets/banner.png)
 
 ## 🚀 Sobre o Projeto
 
